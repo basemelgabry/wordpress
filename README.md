@@ -5,3 +5,5 @@ Wordpress: Bash Install Script -- Downloads latest WP version, updates wp-config
 
 https://gist.github.com/bgallagh3r/2853221
 
+git remote add wordpress https://github.com/basemelgabry/wordpress.git
+
