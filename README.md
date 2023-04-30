@@ -7,3 +7,13 @@ https://gist.github.com/bgallagh3r/2853221
 
 git remote add wordpress https://github.com/basemelgabry/wordpress.git
 
+
+###################################
+
+git clone https://github.com/basemelgabry/wordpress.git
+
+
+cp wordpress/wp.sh .
+
+rm -fr wordpress
+
