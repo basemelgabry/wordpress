@@ -7,7 +7,8 @@ https://gist.github.com/bgallagh3r/2853221
 
 git remote add wordpress https://github.com/basemelgabry/wordpress.git
 
-
+################################
+/mnt/c/MAMP/htdocs#
 ###################################
 
 git clone https://github.com/basemelgabry/wordpress.git
